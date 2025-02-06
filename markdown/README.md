@@ -33,6 +33,7 @@ You’ll also graduate with **real-world career experience** and the beginnings 
 ![Photo student in front of computer screen](./img/Data_Science-Image.JPG)
 
 ## Hyperlinks
+
 [Data Science Website](https://www.trentu.ca/futurestudents/areas-of-study/computer-data-science-mathematics)
 
 ## Including Code
